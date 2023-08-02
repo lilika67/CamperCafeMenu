@@ -1,1 +1,1 @@
-#  This is my project on how to maake a CamperCafeMenu
+#  This is my project on how to make a CamperCafeMenu
